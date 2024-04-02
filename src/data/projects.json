@@ -1,0 +1,52 @@
+[
+  {
+    "title": "CalmScape Game: An Interactive Journey to Mental Serenity",
+    "imageSrc": "projects/project11.png",
+    "description": "A capstone project, a android mobile game. By using the Unity the game was been created.",
+    "skills": ["C#", "Unity", "Android"],
+    "demo": "https://drive.google.com/file/d/11cJoRUMuLYbJWAwDkl8Z26q2bqL-GpGQ/view?usp=sharing",
+    "source": "https://drive.google.com/file/d/1akVMC4Yg0eJ2cLcUXfvRfDsmVcVGABtv/view?usp=sharing"
+  },  
+  {
+      "title": "General Knowledge Quiz",
+      "imageSrc": "projects/project.png",
+      "description": "This project presented as a final output a GUI pyhthon that has timer like in a game and composed of different levels.",
+      "skills": ["Python", "Tkinter"],
+      "demo": "https://drive.google.com/file/d/14FxhulMDQeAv0Jb3iXxyclpCSI0Cmnuk/view?usp=sharing",
+      "source": "https://drive.google.com/file/d/14FxhulMDQeAv0Jb3iXxyclpCSI0Cmnuk/view?usp=sharing"
+    },
+    {
+      "title": "Graciya Lauret Ticketing System",
+      "imageSrc": "projects/projectbb.png",
+      "description": "It contains a ticket purchase of the user with looping on numbers of ticket.",
+      "skills": ["Java GUI","XAMPP"],
+      "demo": "https://drive.google.com/file/d/1FGTPVhj9Y589zwDI1iyag3YHzrJca52v/view?usp=sharing",
+      "source": "https://docs.google.com/document/d/17bEOjUeOAItvpzKQgEnPdNMAEgMGgfaq/edit?usp=sharing&ouid=105533604840006032575&rtpof=true&sd=true"
+    },
+    {
+      "title": "Opal Hall Dormitory Billing System",
+      "imageSrc": "projects/projectc.png",
+      "description": "This project contains of databasing that store the bills and payment of the users.",
+      "skills": ["Laravel Framework", "php", "XAMPP"],
+      "demo": "https://drive.google.com/file/d/14V6ldDNWAUYF8kbTxTf1-4SU5C2GD49j/view?usp=sharing",
+      "source": "https://drive.google.com/file/d/14V6ldDNWAUYF8kbTxTf1-4SU5C2GD49j/view?usp=sharing"
+    },
+    {
+      "title": "Hecate Store System",
+      "imageSrc": "projects/projectb.png",
+      "description": "A project that creates an order and a receipt. Can compute the total price of being purchased.",
+      "skills": ["php", "XAMPP","CSS"],
+      "demo": "https://drive.google.com/drive/folders/1YLqrj2Ty-t9bc7Th9n-d7OCXnuaPijfc?usp=sharing",
+      "source": "https://drive.google.com/drive/folders/1YLqrj2Ty-t9bc7Th9n-d7OCXnuaPijfc?usp=sharing"
+    },
+    {
+      "title": "Tabby Mini Archive System",
+      "imageSrc": "projects/projecte.jpg",
+      "description": " E- Library Management System can store data who barrow books.",
+      "skills": ["Java GUI", "XAMPP"],
+      "demo": "https://drive.google.com/file/d/10Y2LcxZD2nFHNXxBiGOL8wMOc2wmPL8s/view?usp=sharing",
+      "source": "https://drive.google.com/drive/folders/1wjuetjTdbJzYlvMMbd5-iL2dk4AabcTo?usp=sharing"
+    }
+  
+  
+]

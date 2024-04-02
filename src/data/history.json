@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Community Development Lead ",
+      "organisation": "Google Developer Student Clubs- Cristal e-College",
+      "startDate": "August 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Events ", "Participates and gather participants in events"],
+      "imageSrc": "history/gdsc.jpg"
+    },
+    {
+      "role": "Member",
+      "organisation": "Women in AI Philippines",
+      "startDate": "Aug, 2020",
+      "endDate": "December, 2023",
+      "experiences": ["Host an events international and local", "Cloud Computing"],
+      "imageSrc": "history/women.jpg"
+    },
+    {
+      "role": "Senior Programmer",
+      "organisation": "TechVortex",
+      "startDate": "June, 2023",
+      "endDate": "present",
+      "experiences": [
+        "Works in developing game application",
+        "Leads the team to make it the best and productive. "
+      ],
+      "imageSrc": "history/vortex.png"
+    }
+  ]
+  
